@@ -1,0 +1,5 @@
+# Requirements for the Task Management App
+# Required Python packages
+python 3.x
+pandas
+scikit-learn
